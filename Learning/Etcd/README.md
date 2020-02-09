@@ -5,5 +5,8 @@ Etcd is defined as a distributed, reliable key-value store for the most critical
 Etcd is deployed as a cluster, several nodes whose communications are handled by the Raft algorithm.     
 
 <strong> http://thesecretlivesofdata.com/ you can find a great animation explaining how this algorithm operates. </strong>     
+<b> the leader election </b>       
 
+
+<b> the log replications </b>    
 
